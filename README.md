@@ -42,7 +42,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Clone o repositório em sua maquina:
 
-`git clone https://github.com/BrunoLagoa/next-level-week-02`
+`git clone https://github.com/BrunoLagoa/next-level-week-03`
 
 - Abra as pastas **backend, frontend, mobile** e execute `yarn` para instalar todas as dependencies
 
